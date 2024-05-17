@@ -1,3 +1,5 @@
+#for code to work correctly download the edge and node datasets from the shared drive in Appendix G2
+
 import networkx as nx
 import sys
 import matplotlib.pyplot as plt
